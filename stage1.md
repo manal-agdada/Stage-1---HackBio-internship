@@ -5,7 +5,7 @@
 
 ### **in Lung Adenocarcinoma**
 
-Authors (@slack): Manal Agdada (@Manal), Elizabeth Abodunrin ****(@Bettie\_95), Hagar Haitham Elazab (@HBONH33), Rahma Nabil Sallam (@rahmanabil2002)
+Authors (@slack): Manal Agdada (@Manal), Elizabeth Abodunrin (@Bettie\_95), Hagar Haitham Elazab (@HBONH33), Rahma Nabil Sallam (@rahmanabil2002)
 
 Github Repo: [https\://github.com/manal-agdada/Stage-1---HackBio-internship](https://github.com/manal-agdada/Stage-1---HackBio-internship/blob/main/stage1.md)
 
