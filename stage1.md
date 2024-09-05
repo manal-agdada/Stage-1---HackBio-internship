@@ -7,7 +7,7 @@
 
 Authors (@slack): Manal Agdada (@Manal), Elizabeth Abodunrin ****(@Bettie\_95), Hagar Haitham Elazab (@HBONH33), Rahma Nabil Sallam (@rahmanabil2002)
 
-Github Repo: https\://github.com/manal-agdada/Stage-1---HackBio-internship
+Github Repo: [https\://github.com/manal-agdada/Stage-1---HackBio-internship](https://github.com/manal-agdada/Stage-1---HackBio-internship/blob/main/stage1.md)
 
 LinkedIn post:
 
@@ -33,7 +33,7 @@ The four-gene signature could be integrated into clinical sequencing programs th
 
 ### **Conclusion**
 
-### The four-gene prognostic signature identified in lung adenocarcinoma has been shown to significantly predict survival outcomes and could be integrated into RNA-seq-based clinical tests. Given that early stage lung adenocarcinoma often has poorer survival rates than other cancers, more aggressive and efficient treatment approaches are needed. This signature holds the potential to personalize therapy and improve patient outcomes in both early and advanced stages of the disease.
+The four-gene prognostic signature identified in lung adenocarcinoma has been shown to significantly predict survival outcomes and could be integrated into RNA-seq-based clinical tests. Given that early stage lung adenocarcinoma often has poorer survival rates than other cancers, more aggressive and efficient treatment approaches are needed. This signature holds the potential to personalize therapy and improve patient outcomes in both early and advanced stages of the disease.
 
 ### **References** 
 
@@ -44,7 +44,7 @@ The four-gene signature could be integrated into clinical sequencing programs th
 3\. Sudhanshu Shukla, Joseph R Evans, Rohit Malik, Felix Y Feng, Saravana M Dhanasekaran, Xuhong Cao, Guoan Chen, David G Beer, Hui Jiang, Arul M Chinnaiyan, Development of a RNA-Seq Based Prognostic Signature in Lung Adenocarcinoma, JNCI: Journal of the National Cancer Institute, 109(1) 2017
 
 \
-\
+
 
 
 <!--EndFragment-->
