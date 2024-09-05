@@ -33,7 +33,7 @@ The four-gene signature could be integrated into clinical sequencing programs th
 
 ### **Conclusion**
 
-### The four-gene prognostic signature identified in lung adenocarcinoma has been shown to significantly predict survival outcomes and could be integrated into RNA-seq-based clinical tests. Given that early stage lung adenocarcinoma often has poorer survival rates than other cancers, more aggressive and efficient treatment approaches are needed. This signature holds the potential to personalize therapy and improve patient outcomes in both early and advanced stages of the disease.
+The four-gene prognostic signature identified in lung adenocarcinoma has been shown to significantly predict survival outcomes and could be integrated into RNA-seq-based clinical tests. Given that early stage lung adenocarcinoma often has poorer survival rates than other cancers, more aggressive and efficient treatment approaches are needed. This signature holds the potential to personalize therapy and improve patient outcomes in both early and advanced stages of the disease.
 
 ### **References** 
 
@@ -46,7 +46,7 @@ The four-gene signature could be integrated into clinical sequencing programs th
 \
 \
 \
-\
+
 
 
 <!--EndFragment-->
