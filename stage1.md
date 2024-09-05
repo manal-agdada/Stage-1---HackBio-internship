@@ -43,7 +43,7 @@ The four-gene prognostic signature identified in lung adenocarcinoma has been sh
 
 3\. Sudhanshu Shukla, Joseph R Evans, Rohit Malik, Felix Y Feng, Saravana M Dhanasekaran, Xuhong Cao, Guoan Chen, David G Beer, Hui Jiang, Arul M Chinnaiyan, Development of a RNA-Seq Based Prognostic Signature in Lung Adenocarcinoma, JNCI: Journal of the National Cancer Institute, 109(1) 2017
 
-\
+
 
 
 
