@@ -7,7 +7,7 @@
 
 Authors (@slack): Manal Agdada (@Manal), Elizabeth Abodunrin (@Bettie\_95), Hagar Haitham Elazab (@HBONH33), Rahma Nabil Sallam (@rahmanabil2002)
 
-Github Repo: [[https\://github.com/manal-agdada/Stage-1---HackBio-internship](https://github.com/manal-agdada/Stage-1---HackBio-internship/blob/main/stage1.md)](https://github.com/manal-agdada/Stage-1---HackBio-internship/blob/main/stage1.md)
+Github Repo: [https\://github.com/manal-agdada/Stage-1---HackBio-internship](https://github.com/manal-agdada/Stage-1---HackBio-internship/blob/main/stage1.md)(https://github.com/manal-agdada/Stage-1---HackBio-internship/blob/main/stage1.md)
 
 LinkedIn post: https://www.linkedin.com/posts/rahma-nabil-27a080225_hackbio-research-rnaseq-activity-7237856063700537345-D6ol?utm_source=share&utm_medium=member_android
 
