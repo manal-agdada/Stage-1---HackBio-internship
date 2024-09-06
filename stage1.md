@@ -9,7 +9,7 @@ Authors (@slack): Manal Agdada (@Manal), Elizabeth Abodunrin (@Bettie\_95), Haga
 
 Github Repo: [https\://github.com/manal-agdada/Stage-1---HackBio-internship](https://github.com/manal-agdada/Stage-1---HackBio-internship/blob/main/stage1.md)
 
-LinkedIn post:
+LinkedIn post: https://www.linkedin.com/posts/rahma-nabil-27a080225_hackbio-research-rnaseq-activity-7237856063700537345-D6ol?utm_source=share&utm_medium=member_android
 
 Lung adenocarcinoma is a major subtype of non-small lung cancer (NSCLC) with a high mortality rate \[1]. Previously, microarrays have been widely used for gene expression analysis and the development of prognostic signatures in lung adenocarcinoma. However, microarray-derived signatures are limited by biases, as they do not account for non-coding RNA and low abundance transcripts \[2]. To address these limitations, Sudhanshu et al. used RNA-seq data from a lung adenocarcinoma cohort to develop a robust prognostic gene signature. This signature could be directly incorporated into RNA-seq-based clinical tests to improve the prediction of patient outcomes and to guide personalized treatment decisions \[3].
 
